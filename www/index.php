@@ -12,6 +12,7 @@
         <li><a href="lista_cliente.php">Clientes</a></li>
         <li><a href="lista_produto.php">Produtos</a></li>
         <li><a href="lista_fornecedor.php">Fornecedores</a></li>
+        <li><a href="salvar_venda_tela.php">Nova Venda</a></li>
     </ul>
 </body>
 </html>
